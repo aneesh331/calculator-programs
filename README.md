@@ -1,2 +1,2 @@
 # calculator-programs
-calculator programi
+academic TI calculator software
